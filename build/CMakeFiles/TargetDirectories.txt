@@ -1,3 +1,0 @@
-/home/bkatsu/PA1/build/CMakeFiles/PA1.dir
-/home/bkatsu/PA1/build/CMakeFiles/edit_cache.dir
-/home/bkatsu/PA1/build/CMakeFiles/rebuild_cache.dir
