@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g CMakeFiles/PA4.dir/main.cpp.o -o PA4 
